@@ -1,8 +1,0 @@
-{
-    "canisters": {
-        "mental_health_backend": {
-            "type": "kybra",
-            "main": "src/main.py"
-        }
-    }
-}
